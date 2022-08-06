@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.span-page {
+  cursor: pointer;
+}
+.span-page-selected {
+  cursor: pointer;
+  color: red;
+  font-weight: bolder;
+  font-size: larger;
+}
